@@ -1,0 +1,13 @@
+{
+  "generator_version": "1.0",
+  "seed": 7,
+  "start_date": "2026-01-05",
+  "end_date": "2026-02-01",
+  "profile": "salary-heavy",
+  "bank": "HDFC Bank",
+  "monthly_income": 120000.0,
+  "monthly_expense": 90000.0,
+  "row_count": 32,
+  "debit_count": 30,
+  "credit_count": 2
+}

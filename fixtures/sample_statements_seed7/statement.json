@@ -1,0 +1,386 @@
+[
+  {
+    "date": "2026-01-05",
+    "time": "15:22:28",
+    "Transaction Detail": [
+      "Paid to Bajaj Finance",
+      "Transaction ID: TXN2026010510843",
+      "UTR No.: UTR202601051084172",
+      "Paid by HDFC Bank A/C XX0189"
+    ],
+    "type": "debit",
+    "amount": 305.49
+  },
+  {
+    "date": "2026-01-07",
+    "time": "18:34:34",
+    "Transaction Detail": [
+      "Paid to Zepto",
+      "Transaction ID: TXN2026010710631",
+      "UTR No.: UTR202601071066827",
+      "Paid by HDFC Bank A/C XX0189"
+    ],
+    "type": "debit",
+    "amount": 207.84
+  },
+  {
+    "date": "2026-01-08",
+    "time": "08:13:18",
+    "Transaction Detail": [
+      "Paid to HP Petrol",
+      "Transaction ID: TXN2026010811434",
+      "UTR No.: UTR202601081144457",
+      "Paid by HDFC Bank A/C XX0189"
+    ],
+    "type": "debit",
+    "amount": 3880.63
+  },
+  {
+    "date": "2026-01-09",
+    "time": "09:05:17",
+    "Transaction Detail": [
+      "Received from Varun Reddy",
+      "Transaction ID: TXN2026010900173",
+      "UTR No.: UTR202601090018474",
+      "Credited to HDFC Bank A/C XX0189"
+    ],
+    "type": "credit",
+    "amount": 106447.64
+  },
+  {
+    "date": "2026-01-13",
+    "time": "09:28:20",
+    "Transaction Detail": [
+      "Paid to Zomato",
+      "Transaction ID: TXN2026011312127",
+      "UTR No.: UTR202601131217826",
+      "Paid by HDFC Bank A/C XX0189"
+    ],
+    "type": "debit",
+    "amount": 16083.04
+  },
+  {
+    "date": "2026-01-13",
+    "time": "13:07:54",
+    "Transaction Detail": [
+      "Paid to Zomato",
+      "Transaction ID: TXN2026011310354",
+      "UTR No.: UTR202601131036966",
+      "Paid by HDFC Bank A/C XX0189"
+    ],
+    "type": "debit",
+    "amount": 1837.94
+  },
+  {
+    "date": "2026-01-14",
+    "time": "18:14:12",
+    "Transaction Detail": [
+      "Paid to SBI Card",
+      "Transaction ID: TXN2026011410740",
+      "UTR No.: UTR202601141077564",
+      "Paid by HDFC Bank A/C XX0189"
+    ],
+    "type": "debit",
+    "amount": 694.99
+  },
+  {
+    "date": "2026-01-15",
+    "time": "15:56:56",
+    "Transaction Detail": [
+      "Paid to IRCTC",
+      "Transaction ID: TXN2026011512074",
+      "UTR No.: UTR202601151205057",
+      "Paid by HDFC Bank A/C XX0189"
+    ],
+    "type": "debit",
+    "amount": 2797.79
+  },
+  {
+    "date": "2026-01-19",
+    "time": "09:23:39",
+    "Transaction Detail": [
+      "Paid to Cloud Kitchen",
+      "Transaction ID: TXN2026011910229",
+      "UTR No.: UTR202601191029791",
+      "Paid by HDFC Bank A/C XX0189"
+    ],
+    "type": "debit",
+    "amount": 15437.69
+  },
+  {
+    "date": "2026-01-19",
+    "time": "13:46:07",
+    "Transaction Detail": [
+      "Paid to Netflix",
+      "Transaction ID: TXN2026011911732",
+      "UTR No.: UTR202601191173319",
+      "Paid by HDFC Bank A/C XX0189"
+    ],
+    "type": "debit",
+    "amount": 2520.55
+  },
+  {
+    "date": "2026-01-20",
+    "time": "15:58:01",
+    "Transaction Detail": [
+      "Paid to Urban Company",
+      "Transaction ID: TXN2026012010556",
+      "UTR No.: UTR202601201053401",
+      "Paid by HDFC Bank A/C XX0189"
+    ],
+    "type": "debit",
+    "amount": 465.66
+  },
+  {
+    "date": "2026-01-20",
+    "time": "18:47:16",
+    "Transaction Detail": [
+      "Paid to Uber",
+      "Transaction ID: TXN2026012010428",
+      "UTR No.: UTR202601201042674",
+      "Paid by HDFC Bank A/C XX0189"
+    ],
+    "type": "debit",
+    "amount": 3146.34
+  },
+  {
+    "date": "2026-01-21",
+    "time": "18:21:05",
+    "Transaction Detail": [
+      "Paid to Prime Video",
+      "Transaction ID: TXN2026012111132",
+      "UTR No.: UTR202601211118109",
+      "Paid by HDFC Bank A/C XX0189"
+    ],
+    "type": "debit",
+    "amount": 3877.88
+  },
+  {
+    "date": "2026-01-22",
+    "time": "20:41:42",
+    "Transaction Detail": [
+      "Paid to Yash Chopra",
+      "Transaction ID: TXN2026012212225",
+      "UTR No.: UTR202601221223530",
+      "Paid by HDFC Bank A/C XX0189"
+    ],
+    "type": "debit",
+    "amount": 8034.01
+  },
+  {
+    "date": "2026-01-23",
+    "time": "09:35:08",
+    "Transaction Detail": [
+      "Paid to Cloud Kitchen",
+      "Transaction ID: TXN2026012311370",
+      "UTR No.: UTR202601231136741",
+      "Paid by HDFC Bank A/C XX0189"
+    ],
+    "type": "debit",
+    "amount": 2283.21
+  },
+  {
+    "date": "2026-01-23",
+    "time": "15:32:38",
+    "Transaction Detail": [
+      "Paid to BookMyShow",
+      "Transaction ID: TXN2026012311966",
+      "UTR No.: UTR202601231196334",
+      "Paid by HDFC Bank A/C XX0189"
+    ],
+    "type": "debit",
+    "amount": 433.67
+  },
+  {
+    "date": "2026-01-26",
+    "time": "09:04:13",
+    "Transaction Detail": [
+      "Paid to BigBasket",
+      "Transaction ID: TXN2026012610171",
+      "UTR No.: UTR202601261017560",
+      "Paid by HDFC Bank A/C XX0189"
+    ],
+    "type": "debit",
+    "amount": 645.07
+  },
+  {
+    "date": "2026-01-27",
+    "time": "11:17:02",
+    "Transaction Detail": [
+      "Paid to Uber",
+      "Transaction ID: TXN2026012711881",
+      "UTR No.: UTR202601271181930",
+      "Paid by HDFC Bank A/C XX0189"
+    ],
+    "type": "debit",
+    "amount": 1763.51
+  },
+  {
+    "date": "2026-01-29",
+    "time": "20:42:37",
+    "Transaction Detail": [
+      "Paid to Ola",
+      "Transaction ID: TXN2026012911517",
+      "UTR No.: UTR202601291156796",
+      "Paid by HDFC Bank A/C XX0189"
+    ],
+    "type": "debit",
+    "amount": 6856.0
+  },
+  {
+    "date": "2026-01-30",
+    "time": "09:30:12",
+    "Transaction Detail": [
+      "Paid to HP Petrol",
+      "Transaction ID: TXN2026013010920",
+      "UTR No.: UTR202601301094612",
+      "Paid by HDFC Bank A/C XX0189"
+    ],
+    "type": "debit",
+    "amount": 3837.12
+  },
+  {
+    "date": "2026-01-30",
+    "time": "18:05:53",
+    "Transaction Detail": [
+      "Paid to Tata 1mg",
+      "Transaction ID: TXN2026013011071",
+      "UTR No.: UTR202601301106636",
+      "Paid by HDFC Bank A/C XX0189"
+    ],
+    "type": "debit",
+    "amount": 456.3
+  },
+  {
+    "date": "2026-01-30",
+    "time": "22:01:09",
+    "Transaction Detail": [
+      "Paid to BigBasket",
+      "Transaction ID: TXN2026013011230",
+      "UTR No.: UTR202601301123785",
+      "Paid by HDFC Bank A/C XX0189"
+    ],
+    "type": "debit",
+    "amount": 3811.79
+  },
+  {
+    "date": "2026-01-31",
+    "time": "13:01:55",
+    "Transaction Detail": [
+      "Paid to Blinkit",
+      "Transaction ID: TXN2026013111678",
+      "UTR No.: UTR202601311163487",
+      "Paid by HDFC Bank A/C XX0189"
+    ],
+    "type": "debit",
+    "amount": 293.78
+  },
+  {
+    "date": "2026-02-01",
+    "time": "08:32:35",
+    "Transaction Detail": [
+      "Paid to ICICI Bank",
+      "Transaction ID: TXN2026020110714",
+      "UTR No.: UTR202602011071251",
+      "Paid by HDFC Bank A/C XX0189"
+    ],
+    "type": "debit",
+    "amount": 493.73
+  },
+  {
+    "date": "2026-02-01",
+    "time": "08:35:26",
+    "Transaction Detail": [
+      "Paid to Zomato",
+      "Transaction ID: TXN2026020110425",
+      "UTR No.: UTR202602011048434",
+      "Paid by HDFC Bank A/C XX0189"
+    ],
+    "type": "debit",
+    "amount": 193.43
+  },
+  {
+    "date": "2026-02-01",
+    "time": "09:42:53",
+    "Transaction Detail": [
+      "Received from Arjun Chopra",
+      "Transaction ID: TXN2026020100160",
+      "UTR No.: UTR202602010018983",
+      "Credited to HDFC Bank A/C XX0189"
+    ],
+    "type": "credit",
+    "amount": 3942.51
+  },
+  {
+    "date": "2026-02-01",
+    "time": "11:32:43",
+    "Transaction Detail": [
+      "Paid to Zepto",
+      "Transaction ID: TXN2026020110677",
+      "UTR No.: UTR202602011064372",
+      "Paid by HDFC Bank A/C XX0189"
+    ],
+    "type": "debit",
+    "amount": 149.19
+  },
+  {
+    "date": "2026-02-01",
+    "time": "15:05:17",
+    "Transaction Detail": [
+      "Paid to Swastik Travels",
+      "Transaction ID: TXN2026020110283",
+      "UTR No.: UTR202602011029103",
+      "Paid by HDFC Bank A/C XX0189"
+    ],
+    "type": "debit",
+    "amount": 309.71
+  },
+  {
+    "date": "2026-02-01",
+    "time": "15:34:53",
+    "Transaction Detail": [
+      "Paid to Zomato",
+      "Transaction ID: TXN2026020110823",
+      "UTR No.: UTR202602011088080",
+      "Paid by HDFC Bank A/C XX0189"
+    ],
+    "type": "debit",
+    "amount": 651.17
+  },
+  {
+    "date": "2026-02-01",
+    "time": "15:51:16",
+    "Transaction Detail": [
+      "Paid to Swiggy",
+      "Transaction ID: TXN2026020110344",
+      "UTR No.: UTR202602011031275",
+      "Paid by HDFC Bank A/C XX0189"
+    ],
+    "type": "debit",
+    "amount": 31.35
+  },
+  {
+    "date": "2026-02-01",
+    "time": "18:54:58",
+    "Transaction Detail": [
+      "Paid to Kavya Kulkarni",
+      "Transaction ID: TXN2026020110144",
+      "UTR No.: UTR202602011013122",
+      "Paid by HDFC Bank A/C XX0189"
+    ],
+    "type": "debit",
+    "amount": 889.65
+  },
+  {
+    "date": "2026-02-01",
+    "time": "22:16:03",
+    "Transaction Detail": [
+      "Paid to IKEA",
+      "Transaction ID: TXN2026020110540",
+      "UTR No.: UTR202602011052793",
+      "Paid by HDFC Bank A/C XX0189"
+    ],
+    "type": "debit",
+    "amount": 173.29
+  }
+]

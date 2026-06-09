@@ -1,0 +1,20 @@
+date,time,Transaction Detail,type,amount
+2026-05-31,08:45:40,"[""Paid to Ola"", ""Transaction ID: TXN2026053110785"", ""UTR No.: UTR202605311074608"", ""Paid by ICICI Bank A/C XX0564""]",debit,91.07
+2026-05-31,09:47:35,"[""Received from Zoya Reddy"", ""Transaction ID: TXN2026053100128"", ""UTR No.: UTR202605310015339"", ""Credited to ICICI Bank A/C XX0564""]",credit,3414.61
+2026-05-31,11:15:56,"[""Paid to Uber"", ""Transaction ID: TXN2026053110356"", ""UTR No.: UTR202605311036038"", ""Paid by ICICI Bank A/C XX0564""]",debit,357.92
+2026-05-31,11:42:31,"[""Paid to HDFC Bank"", ""Transaction ID: TXN2026053110819"", ""UTR No.: UTR202605311089423"", ""Paid by ICICI Bank A/C XX0564""]",debit,320.19
+2026-05-31,13:15:14,"[""Paid to Zepto"", ""Transaction ID: TXN2026053110666"", ""UTR No.: UTR202605311069479"", ""Paid by ICICI Bank A/C XX0564""]",debit,419.12
+2026-05-31,18:08:42,"[""Paid to Riya Singh"", ""Transaction ID: TXN2026053110418"", ""UTR No.: UTR202605311049727"", ""Paid by ICICI Bank A/C XX0564""]",debit,108.86
+2026-05-31,18:34:49,"[""Paid to Blinkit"", ""Transaction ID: TXN2026053110229"", ""UTR No.: UTR202605311027126"", ""Paid by ICICI Bank A/C XX0564""]",debit,20.30
+2026-05-31,20:25:23,"[""Received from Rahul Bhatia"", ""Transaction ID: TXN2026053100284"", ""UTR No.: UTR202605310028019"", ""Credited to ICICI Bank A/C XX0564""]",credit,527.90
+2026-05-31,22:48:11,"[""Paid to DMart"", ""Transaction ID: TXN2026053110110"", ""UTR No.: UTR202605311015315"", ""Paid by ICICI Bank A/C XX0564""]",debit,118.21
+2026-05-31,22:59:34,"[""Paid to Cloud Kitchen"", ""Transaction ID: TXN2026053110587"", ""UTR No.: UTR202605311057932"", ""Paid by ICICI Bank A/C XX0564""]",debit,1454.81
+2026-06-02,11:06:42,"[""Received from Vihaan Bhatia"", ""Transaction ID: TXN2026060200170"", ""UTR No.: UTR202606020017669"", ""Credited to ICICI Bank A/C XX0564""]",credit,23655.03
+2026-06-02,15:26:42,"[""Paid to IndianOil"", ""Transaction ID: TXN2026060210541"", ""UTR No.: UTR202606021051651"", ""Paid by ICICI Bank A/C XX0564""]",debit,822.15
+2026-06-03,11:08:42,"[""Paid to Cloud Kitchen"", ""Transaction ID: TXN2026060310650"", ""UTR No.: UTR202606031064910"", ""Paid by ICICI Bank A/C XX0564""]",debit,1250.06
+2026-06-04,09:20:03,"[""Paid to BigBasket"", ""Transaction ID: TXN2026060410384"", ""UTR No.: UTR202606041039883"", ""Paid by ICICI Bank A/C XX0564""]",debit,228.51
+2026-06-04,11:44:46,"[""Paid to H&M"", ""Transaction ID: TXN2026060410243"", ""UTR No.: UTR202606041028454"", ""Paid by ICICI Bank A/C XX0564""]",debit,4104.24
+2026-06-05,11:28:53,"[""Paid to Shell"", ""Transaction ID: TXN2026060510841"", ""UTR No.: UTR202606051087054"", ""Paid by ICICI Bank A/C XX0564""]",debit,6426.38
+2026-06-05,13:13:55,"[""Paid to SBI Card"", ""Transaction ID: TXN2026060510131"", ""UTR No.: UTR202606051017658"", ""Paid by ICICI Bank A/C XX0564""]",debit,1817.46
+2026-06-05,18:04:38,"[""Paid to Uber"", ""Transaction ID: TXN2026060510475"", ""UTR No.: UTR202606051042312"", ""Paid by ICICI Bank A/C XX0564""]",debit,2062.38
+2026-06-06,15:36:06,"[""Paid to BigBasket"", ""Transaction ID: TXN2026060610711"", ""UTR No.: UTR202606061078508"", ""Paid by ICICI Bank A/C XX0564""]",debit,932.23

@@ -1,0 +1,7 @@
+# The generator and verifier themselves are pure standard library.
+pytest>=8.0          # test suite
+reportlab>=4.0       # PDF rendering for the per-app statement templates
+
+# Runtime note: the round-trip tests also shell out to Poppler's `pdftotext`
+# (the same tool the backend statement-upload pipeline uses). Install it via
+# your OS package manager, e.g. `apt install poppler-utils`.

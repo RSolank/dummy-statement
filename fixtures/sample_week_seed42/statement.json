@@ -1,0 +1,230 @@
+[
+  {
+    "date": "2026-05-31",
+    "time": "08:45:40",
+    "Transaction Detail": [
+      "Paid to Ola",
+      "Transaction ID: TXN2026053110785",
+      "UTR No.: UTR202605311074608",
+      "Paid by ICICI Bank A/C XX0564"
+    ],
+    "type": "debit",
+    "amount": 91.07
+  },
+  {
+    "date": "2026-05-31",
+    "time": "09:47:35",
+    "Transaction Detail": [
+      "Received from Zoya Reddy",
+      "Transaction ID: TXN2026053100128",
+      "UTR No.: UTR202605310015339",
+      "Credited to ICICI Bank A/C XX0564"
+    ],
+    "type": "credit",
+    "amount": 3414.61
+  },
+  {
+    "date": "2026-05-31",
+    "time": "11:15:56",
+    "Transaction Detail": [
+      "Paid to Uber",
+      "Transaction ID: TXN2026053110356",
+      "UTR No.: UTR202605311036038",
+      "Paid by ICICI Bank A/C XX0564"
+    ],
+    "type": "debit",
+    "amount": 357.92
+  },
+  {
+    "date": "2026-05-31",
+    "time": "11:42:31",
+    "Transaction Detail": [
+      "Paid to HDFC Bank",
+      "Transaction ID: TXN2026053110819",
+      "UTR No.: UTR202605311089423",
+      "Paid by ICICI Bank A/C XX0564"
+    ],
+    "type": "debit",
+    "amount": 320.19
+  },
+  {
+    "date": "2026-05-31",
+    "time": "13:15:14",
+    "Transaction Detail": [
+      "Paid to Zepto",
+      "Transaction ID: TXN2026053110666",
+      "UTR No.: UTR202605311069479",
+      "Paid by ICICI Bank A/C XX0564"
+    ],
+    "type": "debit",
+    "amount": 419.12
+  },
+  {
+    "date": "2026-05-31",
+    "time": "18:08:42",
+    "Transaction Detail": [
+      "Paid to Riya Singh",
+      "Transaction ID: TXN2026053110418",
+      "UTR No.: UTR202605311049727",
+      "Paid by ICICI Bank A/C XX0564"
+    ],
+    "type": "debit",
+    "amount": 108.86
+  },
+  {
+    "date": "2026-05-31",
+    "time": "18:34:49",
+    "Transaction Detail": [
+      "Paid to Blinkit",
+      "Transaction ID: TXN2026053110229",
+      "UTR No.: UTR202605311027126",
+      "Paid by ICICI Bank A/C XX0564"
+    ],
+    "type": "debit",
+    "amount": 20.3
+  },
+  {
+    "date": "2026-05-31",
+    "time": "20:25:23",
+    "Transaction Detail": [
+      "Received from Rahul Bhatia",
+      "Transaction ID: TXN2026053100284",
+      "UTR No.: UTR202605310028019",
+      "Credited to ICICI Bank A/C XX0564"
+    ],
+    "type": "credit",
+    "amount": 527.9
+  },
+  {
+    "date": "2026-05-31",
+    "time": "22:48:11",
+    "Transaction Detail": [
+      "Paid to DMart",
+      "Transaction ID: TXN2026053110110",
+      "UTR No.: UTR202605311015315",
+      "Paid by ICICI Bank A/C XX0564"
+    ],
+    "type": "debit",
+    "amount": 118.21
+  },
+  {
+    "date": "2026-05-31",
+    "time": "22:59:34",
+    "Transaction Detail": [
+      "Paid to Cloud Kitchen",
+      "Transaction ID: TXN2026053110587",
+      "UTR No.: UTR202605311057932",
+      "Paid by ICICI Bank A/C XX0564"
+    ],
+    "type": "debit",
+    "amount": 1454.81
+  },
+  {
+    "date": "2026-06-02",
+    "time": "11:06:42",
+    "Transaction Detail": [
+      "Received from Vihaan Bhatia",
+      "Transaction ID: TXN2026060200170",
+      "UTR No.: UTR202606020017669",
+      "Credited to ICICI Bank A/C XX0564"
+    ],
+    "type": "credit",
+    "amount": 23655.03
+  },
+  {
+    "date": "2026-06-02",
+    "time": "15:26:42",
+    "Transaction Detail": [
+      "Paid to IndianOil",
+      "Transaction ID: TXN2026060210541",
+      "UTR No.: UTR202606021051651",
+      "Paid by ICICI Bank A/C XX0564"
+    ],
+    "type": "debit",
+    "amount": 822.15
+  },
+  {
+    "date": "2026-06-03",
+    "time": "11:08:42",
+    "Transaction Detail": [
+      "Paid to Cloud Kitchen",
+      "Transaction ID: TXN2026060310650",
+      "UTR No.: UTR202606031064910",
+      "Paid by ICICI Bank A/C XX0564"
+    ],
+    "type": "debit",
+    "amount": 1250.06
+  },
+  {
+    "date": "2026-06-04",
+    "time": "09:20:03",
+    "Transaction Detail": [
+      "Paid to BigBasket",
+      "Transaction ID: TXN2026060410384",
+      "UTR No.: UTR202606041039883",
+      "Paid by ICICI Bank A/C XX0564"
+    ],
+    "type": "debit",
+    "amount": 228.51
+  },
+  {
+    "date": "2026-06-04",
+    "time": "11:44:46",
+    "Transaction Detail": [
+      "Paid to H&M",
+      "Transaction ID: TXN2026060410243",
+      "UTR No.: UTR202606041028454",
+      "Paid by ICICI Bank A/C XX0564"
+    ],
+    "type": "debit",
+    "amount": 4104.24
+  },
+  {
+    "date": "2026-06-05",
+    "time": "11:28:53",
+    "Transaction Detail": [
+      "Paid to Shell",
+      "Transaction ID: TXN2026060510841",
+      "UTR No.: UTR202606051087054",
+      "Paid by ICICI Bank A/C XX0564"
+    ],
+    "type": "debit",
+    "amount": 6426.38
+  },
+  {
+    "date": "2026-06-05",
+    "time": "13:13:55",
+    "Transaction Detail": [
+      "Paid to SBI Card",
+      "Transaction ID: TXN2026060510131",
+      "UTR No.: UTR202606051017658",
+      "Paid by ICICI Bank A/C XX0564"
+    ],
+    "type": "debit",
+    "amount": 1817.46
+  },
+  {
+    "date": "2026-06-05",
+    "time": "18:04:38",
+    "Transaction Detail": [
+      "Paid to Uber",
+      "Transaction ID: TXN2026060510475",
+      "UTR No.: UTR202606051042312",
+      "Paid by ICICI Bank A/C XX0564"
+    ],
+    "type": "debit",
+    "amount": 2062.38
+  },
+  {
+    "date": "2026-06-06",
+    "time": "15:36:06",
+    "Transaction Detail": [
+      "Paid to BigBasket",
+      "Transaction ID: TXN2026060610711",
+      "UTR No.: UTR202606061078508",
+      "Paid by ICICI Bank A/C XX0564"
+    ],
+    "type": "debit",
+    "amount": 932.23
+  }
+]
