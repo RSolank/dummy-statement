@@ -70,6 +70,24 @@ MERCHANTS = [
     "Cloud Kitchen",
 ]
 
+# Employers for the monthly salary inflow. Unlike a P2P credit (a person name),
+# a salary credit carries a company name PLUS a "SALARY" token so the backend
+# categorization engine can separate income from peer transfers / refunds — the
+# stable signal in real statements is the token, not the (user-specific) payer.
+COMPANIES = [
+    "Infosys",
+    "TCS",
+    "Wipro",
+    "HCL Technologies",
+    "Tech Mahindra",
+    "Accenture India",
+    "Cognizant",
+    "Capgemini India",
+    "Reliance Industries",
+    "Tata Consultancy",
+]
+SALARY_TOKEN = "SALARY"
+
 FIRST_NAMES = [
     "Aarav",
     "Aanya",
@@ -645,12 +663,13 @@ def _generate_month_segment(
         second = round(max(0.01, income_target - first), 2)
         credit_amounts = [first, second]
 
-    salary_source = rng.choice(person_pool)
-    peer_source = rng.choice([name for name in person_pool if name != salary_source]) if len(person_pool) > 1 else salary_source
+    # Salary inflow: a company name + a SALARY token (NOT a person), so income
+    # is separable from P2P credits / merchant refunds at categorization time.
+    salary_source = f"{rng.choice(COMPANIES)} {SALARY_TOKEN}"
+    peer_source = rng.choice(person_pool)
     refund_source = rng.choice(merchant_pool)
     another_peer = rng.choice(
-        [name for name in person_pool if name not in {salary_source, peer_source}]
-        or person_pool
+        [name for name in person_pool if name != peer_source] or person_pool
     )
     credit_dates = sorted(
         _pick_weekday(rng, segment_start, min(segment_end, segment_start + timedelta(days=6)))
